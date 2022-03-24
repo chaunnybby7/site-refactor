@@ -6,3 +6,5 @@ Added missing "id" to search-engine-optimization.
 Added alt texts to all images.
 
 Renamed title. 
+
+https://chaunnybby7.github.io/site-refactor/
