@@ -1,4 +1,5 @@
 # site-refactor
+<<<<<<< HEAD
 
 This project atisfies all of the preceding acceptance criteria plus the following code improvements:
 
@@ -128,3 +129,14 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License 
 
 
+=======
+Semantic HTML elements like Header, Section, Main, Footer are all present.
+
+Added missing "id" to under content section, line 29, to search-engine-optimization.
+
+Added alt texts to all images.
+
+Renamed title. 
+
+https://chaunnybby7.github.io/site-refactor/
+>>>>>>> 87fb13842194c46633c3a91a688ea75c868b0e39
