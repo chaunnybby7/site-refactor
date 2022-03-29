@@ -1,7 +1,42 @@
 # site-refactor
-<<<<<<< HEAD
 
-This project atisfies all of the preceding acceptance criteria plus the following code improvements:
+## Introduction
+For this project, I am to make sure the acceptance criteria are met and fix any issues on the website.
+
+## What changes I have made :
+
+
+1)Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+
+2)Fixed the code by adding missing "id" to search-engine-optimization.
+
+3)Added alt texts to all images. 
+
+4)Renamed title of the website. 
+
+## User Story 
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+## Acceptance Criteria 
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
+
+
+### Application Quality
 
 Application's links all function correctly.
 
@@ -25,77 +60,9 @@ GitHub repository contains application code.
 
 
 
-Application Quality: 
-
-
-Application resembles mock-up provided in the homework instructions (at least 90%).
-
-
-Repository Quality: 
-
+## Repository Quality: 
 
 Repository has a unique name (site-refactor)
-
-Changes made to the original website:
-
-1)Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-
-2)Fixed the code by adding missing "id" to search-engine-optimization.
-
-3)Added alt texts to all images. 
-
-4)Renamed title of the website. 
-
-
-## User Story
-
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
-## Acceptance Criteria
-
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
-
-
-### Prerequisites
-
-Install the index.html, style.css and image files.  
-
-
-
-### Installing
-
-
-
-Follow these instructions to create your project and deploy it to GitHub Pages:
-
-
-Create a new repository on your GitHub account and clone it to your computer.
-
-
-When you're ready to deploy, use the git add, git commit, and git push commands to save and push your code to your GitHub repository.
-
-
-Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-
-On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the main branch as your source.
-
-
-Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
 
 
@@ -118,25 +85,12 @@ Navigate to <your-github-username.github.io/your-repository-name> and you will f
 
 * **YiLin Ong** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Portfolio Site](https://chaunnybby7.github.io/site-refactor/)
+- [Link to Github](https://github.com/chaunnybby7)
+- [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
 
 ## License
 
 This project is licensed under the MIT License 
 
 
-=======
-Semantic HTML elements like Header, Section, Main, Footer are all present.
-
-Added missing "id" to under content section, line 29, to search-engine-optimization.
-
-Added alt texts to all images.
-
-Renamed title. 
-
-https://chaunnybby7.github.io/site-refactor/
->>>>>>> 87fb13842194c46633c3a91a688ea75c868b0e39
