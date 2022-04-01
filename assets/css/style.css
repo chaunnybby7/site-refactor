@@ -24,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Div tag styled with header class selector*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,6 +37,7 @@ body {
     list-style-type: none;
 }
 
+/* display: inline-block is to display list items horizontally instead of vertically*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -46,11 +47,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Semantic tag element - paragraph */
 p {
     font-size: 16px;
 }
-
+/* header picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Sets the margin area on the bottom of an element. A positive value places it farther from its neighbors */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -134,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Class selectors in the body section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;

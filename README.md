@@ -5,15 +5,19 @@ For this project, I am to make sure the acceptance criteria are met and fix any 
 
 ## What changes I have made :
 
-1)Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+1) Semantic HTML tags such as `<head>`, `<footer>`, `<html>`, and non-semantic tags like `<div>` and `<span>`.
 
-2)Fixed the code by adding missing "id" to search-engine-optimization.
+2) This project style CSS consists of more `<class>` elements. There are also `<id>` and other semantic element such as `<ul>`, `<ol>`, `<li>` and `<p>`.
+3) Fixed the code by adding missing `<id>` to search-engine-optimization so that when user clicks on the navigation, it goes to the section.
 
-3)Added alt texts to all images. 
+4) Added `alt` texts to all images. 
 
-4)Renamed title of the website. 
+5) Renamed `title` of the website. 
+.
+6) Used `<margin-bottom:>` CSS property to add spaces between the <div> containers. 
 
 ## User Story 
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
