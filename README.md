@@ -5,9 +5,7 @@ For this project, I am to make sure the acceptance criteria are met and fix any 
 
 ## What changes I have made :
 
-
 1)Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
 
 2)Fixed the code by adding missing "id" to search-engine-optimization.
 
@@ -34,7 +32,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Screenshot of the website
 
+![](https://media.giphy.com/media/5IZK3Cfm5j4HhXJx22/giphy.gif)
 
 ### Application Quality
 
@@ -63,10 +63,6 @@ GitHub repository contains application code.
 ## Repository Quality: 
 
 Repository has a unique name (site-refactor)
-
-
-
-
 
 
 
