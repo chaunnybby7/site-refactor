@@ -5,7 +5,7 @@ For this project, I am to make sure the acceptance criteria are met and fix any 
 
 ## What changes I have made :
 
-1) Semantic HTML tags such as `<head>`, `<footer>`, `<html>`, and non-semantic tags like `<div>` and `<span>`.
+1) The website consists of semantic HTML tags such as `<head>`, `<footer>`, `<html>`, and non-semantic tags like `<div>` and `<span>`.
 
 2) This project style CSS consists of more `<class>` elements. There are also `<id>` and other semantic element such as `<ul>`, `<ol>`, `<li>` and `<p>`.
 3) Fixed the code by adding missing `<id>` to search-engine-optimization so that when user clicks on the navigation, it goes to the section.
